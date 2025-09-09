@@ -113,10 +113,14 @@ export default {
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, 
                         then afterwards we never accept records for said level.
                     </p>
-                    <p>
-                        Join the Upsilon GDPS Discord Server!
-                        https://invidget.switchblade.xyz/cY8jBwKZkM/
-                </div>
+<p>
+  Join the Upsilon GDPS Discord Server!
+</p>
+<iframe 
+    src="https://invidget.switchblade.xyz/cY8jBwKZkM" 
+    style="border-radius: 8px; height: 400px; width: 100%; border: none;" 
+    frameborder="0">
+</iframe>
             </div>
         </main>
     `,
