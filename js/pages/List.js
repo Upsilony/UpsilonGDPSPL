@@ -121,6 +121,7 @@ export default {
     style="border-radius: 8px; height: 400px; width: 100%; border: none;" 
     frameborder="0">
 </iframe>
+                </div>
             </div>
         </main>
     `,
