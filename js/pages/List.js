@@ -117,9 +117,7 @@ export default {
   Join the Upsilon GDPS Discord Server!
 </p>
 <iframe 
-    src="https://invidget.switchblade.xyz/cY8jBwKZkM" 
-    style="border-radius: 8px; height: 400px; width: 100%; border: none;" 
-    frameborder="0">
+    src="https://invidget.switchblade.xyz/cY8jBwKZkM"
 </iframe>
                 </div>
             </div>
