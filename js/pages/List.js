@@ -91,30 +91,31 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Rules</h3>
+                    <h3>Submission Requirements</h3>
                     <p>
-                        FPS Bypass is allowed up to 360 FPS.
-                        CBF is allowed, but you should write 'CBF Used'.
+                        FPS Bypass is allowed up to 360 FPS with CBF.
                     </p>
                     <p>
-                        Cheat Indicator is required if you're using a mod menu that supports one.
-                        (Unless you're playing without Geode.)
+                        Cheat Indicator is required if you're using a mod menu that supports one, cheat indicator should show in endscreen too.
                     </p>
                     <p>
-                        End Stats is required.
+                        End Stats is required with previous attempts. Also recording should show the player hit the end.
                     </p>
                     <p>
-                        Clicks are required. If no clicks appear in the recording, click counter label is required.
-                        (Fake clicks or clicks mod is not allowed. Clicks should only come from your microphone.)
-                        (Mobile Taps, Mobile Players is not required but need show taps.)
-                    </p>
-                    <p>
-                        Raw footage is required. Your raw footage must be unedited.
-                        (Include clicks.)
+                        Clicks are required. If no clicks appear in the recording, click counter label is required. Alsomthe raw footage is required with taps.
+                        (Clicks should only come from your microphone. Mobile Taps, Mobile Players is not required but need show taps.)
                     </p>
                     <p>
                         Physic Bypass or TPS Bypass like hacks, your records will denied and you'll banned.
                         We'll show why your records are denied.
+                    </p>
+                    <p>
+                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, 
+                        then afterwards we never accept records for said level.
+                    </p>
+                    <p>
+                        Join the Upsilon GDPS Discord Server!
+                        https://invidget.switchblade.xyz/cY8jBwKZkM/
                 </div>
             </div>
         </main>
