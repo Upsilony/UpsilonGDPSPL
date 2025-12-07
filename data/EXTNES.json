@@ -1,26 +1,12 @@
 {
-    "id": 1160,
-    "name": "EXTNES",
-    "author": "slvenus",
+    "id": 1219,
+    "name": "Not Your Level",
+    "author": "FGFentertain",
     "creators": [],
-    "verifier": "Upsilony",
+    "verifier": "FGFentertain",
     "difficulty": "Extreme Demon",
     "password": "Free Copy",
-    "verification": "https://youtu.be/9mRDDAtBgGs",
-    "percentToQualify": 53,
+    "verification": "https://youtu.be/sQHlOrUgLF8",
     "records": [
-        {
-            "user": "test",
-            "link": "https://youtu.be/CcQ3A7ROEAo",
-            "percent": 100,
-            "hz": "60",
-            "mobile": true
-        },
-        {
-            "user": "test2",
-            "link": "https://www.youtube.com/watch?v=0wOvPqaBauo",
-            "percent": 100,
-            "hz": "360"
-        }
     ]
 }
