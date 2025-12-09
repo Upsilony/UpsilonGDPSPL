@@ -108,10 +108,9 @@ export default {
                     <p>Every action is conducted in accordance with our guidelines. In order to guarantee a consistent experience, make sure to verify them before submitting a record!</p>
                     <br><br>
                     <a class="btngl" href="/extended-page/rules.html">Guidelines Page</a>
-                    <a class="btngl" href="/extended-page/faq.html">FAQ</a>
                     </div>
-                    <div class="dark-bg" v-if="editors">
                     <br>
+                    <div class="dark-bg" v-if="editors">
                         <h3>List Staff:</h3>
                         <br>
                         <ol class="editors">
