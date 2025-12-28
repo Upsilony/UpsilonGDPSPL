@@ -3,8 +3,8 @@
     --color-on-background: black;
     --color-background-hover: #eee;
     --color-on-background-hover: black;
-    --color-primary: #0066ff;
-    --color-on-primary: white; /* primary 위의 텍스트는 흰색이 가독성에 좋습니다 */
+    --color-primary: #f300ff;
+    --color-on-primary: black;
     --color-extended: rgba(0, 0, 0, 0.5);
     --color-legacy: rgba(0, 0, 0, 0.25);
     --color-tags: rgba(0, 0, 0, 0.25);
@@ -16,11 +16,11 @@
 main.dark,
 header.dark {
     color-scheme: dark;
-    --color-background: #1c1b1f;
+    --color-background: #17161a;
     --color-on-background: white;
-    --color-background-hover: #27262c;
+    --color-background-hover: #201f24;
     --color-on-background-hover: white;
-    --color-primary: #283593;/
+    --color-primary: #87397e;
     --color-on-primary: white;
     --color-extended: rgba(115, 115, 115, 0.75);
     --color-legacy: rgba(115, 115, 115, 0.5);
